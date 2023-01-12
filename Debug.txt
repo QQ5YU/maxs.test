@@ -1,0 +1,4 @@
+Loaclization 問題 - 
+	1. 點選window-assetManager-addressables-setting
+	2.找到build-MonoScript Bundle Naming Prefix
+	3.點選下拉是選單設為Default Group GUID
